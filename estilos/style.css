@@ -36,6 +36,7 @@ header
     background-image: linear-gradient(to bottom, var(--cor3-), var(--cor4-), var(--cor5-));
     min-height: 150px;
     text-align: center;
+    padding-right: 20px;
     
     
 }
@@ -214,7 +215,7 @@ footer
     text-align: center;
     font-size: 0.9em;
     padding: 5px;
-    
+
 }
 
 footer > a
